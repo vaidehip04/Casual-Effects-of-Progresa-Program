@@ -1,4 +1,4 @@
-# Casual-Impact-of-Progresa-Program
+# Casual-Effects-of-Progresa-Program
 
 # The goal of this problem set is to get experience with estimation of causal effects, in particular using the differences-in-differences (DiD) method. This is a very common task in economics/government/business analytics. The task is to estimate the impact of progresa subsidies on the school attendance using the actual data.
 
